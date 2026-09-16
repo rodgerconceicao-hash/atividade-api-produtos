@@ -1,2 +1,7 @@
-# atividade-api-produtos
-Atividade — Criando uma API com Express e um Frontend com Fetch
+# aula-github
+
+### TODO
+
+° aprender comando git
+
+° entender o que é branch
